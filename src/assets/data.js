@@ -40,7 +40,7 @@ export const products = [
     {
       id: 4,
       name: "T-shirt col V homme",
-      image: imageFour,
+      image: imageEight,
       description: "T-shirt basique en coton avec col en V, confortable pour un usage quotidien.",
       category: "men",
       price: 24.99
@@ -72,7 +72,7 @@ export const products = [
     {
       id: 8,
       name: "T-shirt enfant dinosaure",
-      image: imageEight,
+      image: imageTen,
       description: "T-shirt coloré avec motif dinosaure, 100% coton bio pour le confort de votre enfant.",
       category: "kids",
       price: 19.99
@@ -104,7 +104,7 @@ export const products = [
     {
       id: 12,
       name: "Manteau d'hiver",
-      image: imageTweleve,
+      image: imageTwo,
       description: "Manteau chaud et imperméable pour affronter l'hiver avec style et confort.",
       category: "women",
       price: 129.99
